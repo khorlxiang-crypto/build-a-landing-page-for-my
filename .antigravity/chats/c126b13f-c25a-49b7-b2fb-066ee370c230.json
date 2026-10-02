@@ -4,5 +4,18 @@
   "createdAt": "2026-10-01T16:47:02.724Z",
   "filename": "c126b13f-c25a-49b7-b2fb-066ee370c230.json",
   "geminiStarted": false,
-  "messages": []
+  "messages": [
+    {
+      "id": "bbe34bc8-9286-4cd8-9721-5cb4f44a46f9",
+      "role": "user",
+      "content": "hi",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-02T07:16:32.745Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
